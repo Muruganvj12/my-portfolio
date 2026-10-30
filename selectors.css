@@ -1,0 +1,22 @@
+#welcome{
+    background-color: aquamarine;
+    padding: 100px 100px;
+    margin: 80px 80px;
+    border: 20px solid rgb(255, 127, 138);
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding: 80px 100px;
+    margin: 40px 70px;
+}
+h1,h3{
+    background-color: cadetblue;
+
+}
+.header{
+    background-color: grey;
+}
+*{
+    background-color: darkblue;
+}
